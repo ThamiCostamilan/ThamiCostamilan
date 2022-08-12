@@ -1,6 +1,6 @@
 ### Oie, sou a Thami! Desenvolvedora front-end jr.
 
-(𝑖∂ − 𝑚) 𝜓 = 0
+- (𝑖∂ − 𝑚) 𝜓 = 0
 
 - 🖥️ Atualmente procuro trabalho como Front-end
 - 📚 Estudando JavaScript e Flexbox
