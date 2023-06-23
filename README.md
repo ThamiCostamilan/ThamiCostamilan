@@ -3,8 +3,7 @@
 - (𝑖∂ − 𝑚) 𝜓 = 0
 
 - 🖥️ Atualmente procuro trabalho como Front-end
-- 📚 Estudando JavaScript e Flexbox
-- 😄 Pronouns: Ela/dela
+- 📚 Estudando FrontEnd at EBAC
 - 🔮 Fun fact: Sou moderadora em uma plantaforma de stream!
 
 <div align="center">
