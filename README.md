@@ -2,7 +2,7 @@
 
 - (𝑖∂ − 𝑚) 𝜓 = 0
 
-- 🖥️ Atualmente procuro trabalho como Front-end
+- 🖥️ Atualmente procurando oportunidade no ramo de desenvolvimento
 - 📚 Estudando Analise e Desenvolvimento de Sistemas at UNINTER
 - 📚 Cursos complementares de: React at DIO, Front End at EBAC
 - 🔮 Fun fact: Sou moderadora em uma plantaforma de stream!
