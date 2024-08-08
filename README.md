@@ -2,7 +2,7 @@
 
 - (𝑖∂ − 𝑚) 𝜓 = 0
 
-- 🖥️ Atualmente procurando oportunidade no ramo de desenvolvimento
+- 🖥️ Atualmente ingressando na área de desenvolvimento
 - 📚 Estudando Analise e Desenvolvimento de Sistemas at UNINTER
 - 📚 Cursos complementares de: React at DIO, Front End at EBAC
 - 🔮 Fun fact: Sou moderadora na twitch, formada em Artes Cênicas e em Astrofisica básica
