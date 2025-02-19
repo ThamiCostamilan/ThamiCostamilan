@@ -4,7 +4,7 @@
 
 - 🖥️ Atualmente trabalhando como Quality Assurance 
 - 📚 Estudando Analise e Desenvolvimento de Sistemas at UNINTER
-- 🔮 Fun fact: Sou moderadora na twitch, formada em Artes Cênicas e em Astrofisica, e ex pro player de Hearthstone!
+- 🔮 Fun fact: Sou moderadora na twitch, formada em Artes Cênicas e em Astrofisica, e ex pro-player de Hearthstone!
 
 <div align="center">
   <a href="https://github.com/thamicostamilan">
