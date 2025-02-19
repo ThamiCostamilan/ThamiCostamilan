@@ -1,10 +1,10 @@
-### Oie, eu sou a Thami!
+### Prazer, sou a Thami!
 
 - (𝑖∂ − 𝑚) 𝜓 = 0
 
-- 🖥️ Atualmente ingressando na área de desenvolvimento
+- 🖥️ Atualmente trabalhando como Quality Assurance 
 - 📚 Estudando Analise e Desenvolvimento de Sistemas at UNINTER
-- 🔮 Fun fact: Sou moderadora na twitch, formada em Artes Cênicas e em Astrofisica básica
+- 🔮 Fun fact: Sou moderadora na twitch, formada em Artes Cênicas e em Astrofisica, e ex pro player de Hearthstone!
 
 <div align="center">
   <a href="https://github.com/thamicostamilan">
