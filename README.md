@@ -1,15 +1,27 @@
-### Prazer, sou a Thami!
+## Muito prazer, sou a Thamis! 💗
+
+Analista de Qualidade de Software com foco em testes **funcionais**, **exploratórios** e **automatizados**.
+Tenho mais de 10 anos de **experiência** em atendimento ao cliente e suporte técnico em TI, o que fortalece minha visão voltada para **detalhes**, **usabilidade** e **experiência do usuário**.
 
 - (𝑖∂ − 𝑚) 𝜓 = 0
 
-- 🖥️ Atualmente trabalhando como Quality Assurance 
-- 📚 Estudando Analise e Desenvolvimento de Sistemas at UNINTER
-- 🔮 Fun fact: Sou moderadora na twitch, formada em Artes Cênicas e em Astrofisica, e ex pro-player de Hearthstone!
+___________________________________________________________________________________________________________________
 
-<div align="center">
-  <a href="https://github.com/thamicostamilan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thamicostamilan&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-</div>
+## ✨ Sobre mim
+
+🔍 QA com atuação em testes funcionais, exploratórios e automatizados
+
+🛠 Experiência em Cypress + JavaScript para automação de testes
+
+📋 Forte atuação em validação de requisitos, reporte e acompanhamento de bugs
+
+🚀 Experiência com práticas ágeis (Scrum/Kanban) e colaboração em times multidisciplinares
+
+🧩 Reconhecida por rapidez na aprendizagem, atenção aos detalhes e proatividade
+
+🎯 Foco em entregar produtos digitais mais confiáveis, eficientes e com melhor experiência para o usuário
+
+⚙️ Tecnologias e Ferramentas
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -19,7 +31,12 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg">
   <img align="right" src="https://i.picasion.com/pic92/3a64a59fbdb91b23ceee62c2c42a5fd4.gif" width="200" height="200" alt="https://picasion.com/">
 </div>
-  
+
+  <div align="center">
+  <a href="https://github.com/thamicostamilan">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thamicostamilan&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+</div>
+    
   ##
   
   <div>
