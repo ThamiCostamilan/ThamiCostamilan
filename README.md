@@ -1,4 +1,4 @@
-## Muito prazer, sou a Thamis! 💗
+  ## Muito prazer, sou a Thamis! 💗
 
 Analista de Qualidade de Software com foco em testes **funcionais**, **exploratórios** e **automatizados**.
 Tenho mais de 10 anos de **experiência** em atendimento ao cliente e suporte técnico em TI, o que fortalece minha visão voltada para **detalhes**, **usabilidade** e **experiência do usuário**.
@@ -6,7 +6,7 @@ Tenho mais de 10 anos de **experiência** em atendimento ao cliente e suporte t�
 (𝑖∂ − 𝑚) 𝜓 = 0
 
 
-## ✨ Sobre mim
+  ## ✨ Sobre mim
 
 🔍 QA com atuação em testes **funcionais**, **exploratórios** e **automatizados**
 
@@ -22,9 +22,8 @@ Tenho mais de 10 anos de **experiência** em atendimento ao cliente e suporte t�
 
 🎯 **Foco** em entregar produtos digitais mais **confiáveis**, **eficientes** e com **melhor experiência** para o **usuário**
 
-## ⚙️ Tecnologias e Ferramentas
+  ## ⚙️ Tecnologias e Ferramentas
 
-<div style="display: inline_block"><br>
   ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=fff)
   ![Scrum](https://img.shields.io/badge/-Scrum-009FDA?logo=scrumalliance&logoColor=fff)
   ![Kanban](https://img.shields.io/badge/-Kanban-0052CC?logo=trello&logoColor=fff)
@@ -36,7 +35,6 @@ Tenho mais de 10 anos de **experiência** em atendimento ao cliente e suporte t�
   ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff)
   ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=fff)
- </div>
 
   ## 💌 Quer bater um papo? É só me chamar!
   <a href="https://www.linkedin.com/in/thamiris-costamilan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
