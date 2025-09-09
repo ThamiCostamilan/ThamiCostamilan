@@ -5,21 +5,20 @@ Tenho mais de 10 anos de **experiência** em atendimento ao cliente e suporte t�
 
 (𝑖∂ − 𝑚) 𝜓 = 0
 
-___________________________________________________________________________________________________________________
 
 ## ✨ Sobre mim
 
-🔍 QA com atuação em testes funcionais, exploratórios e automatizados
+🔍 QA com atuação em testes **funcionais**, **exploratórios** e **automatizados**
 
-🛠 Experiência em Cypress + JavaScript para automação de testes
+🛠 Experiência em Cypress + JavaScript para **automação de testes**
 
-📋 Forte atuação em validação de requisitos, reporte e acompanhamento de bugs
+📋 Forte atuação em **validação de requisitos**, **reporte** e **acompanhamento de bugs**
 
-🚀 Experiência com práticas ágeis (Scrum/Kanban) e colaboração em times multidisciplinares
+🚀 **Experiência** com práticas ágeis **(Scrum/Kanban)** e colaboração em times multidisciplinares
 
-🧩 Reconhecida por rapidez na aprendizagem, atenção aos detalhes e proatividade
+🧩 Reconhecida por **rapidez na aprendizagem**, **atenção aos detalhes** e **proatividade**
 
-🎯 Foco em entregar produtos digitais mais confiáveis, eficientes e com melhor experiência para o usuário
+🎯 **Foco** em entregar produtos digitais mais **confiáveis**, **eficientes** e com **melhor experiência** para o **usuário**
 
 ## ⚙️ Tecnologias e Ferramentas
 
