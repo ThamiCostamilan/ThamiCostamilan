@@ -3,7 +3,7 @@
 Analista de Qualidade de Software com foco em testes **funcionais**, **exploratórios** e **automatizados**.
 Tenho mais de 10 anos de **experiência** em atendimento ao cliente e suporte técnico em TI, o que fortalece minha visão voltada para **detalhes**, **usabilidade** e **experiência do usuário**.
 
-- (𝑖∂ − 𝑚) 𝜓 = 0
+(𝑖∂ − 𝑚) 𝜓 = 0
 
 ___________________________________________________________________________________________________________________
 
@@ -21,7 +21,7 @@ ________________________________________________________________________________
 
 🎯 Foco em entregar produtos digitais mais confiáveis, eficientes e com melhor experiência para o usuário
 
-⚙️ Tecnologias e Ferramentas
+## ⚙️ Tecnologias e Ferramentas
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
