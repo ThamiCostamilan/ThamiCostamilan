@@ -34,6 +34,7 @@ Tenho mais de 10 anos de **experiência** em atendimento ao cliente e suporte t�
   ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff)
   ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=fff)
+  ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 
   ## 💌 Quer bater um papo? É só me chamar!
   <a href="https://www.linkedin.com/in/thamiris-costamilan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
