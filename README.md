@@ -23,7 +23,7 @@ Tenho mais de 10 anos de **experiência** em atendimento ao cliente e suporte t�
   ## ⚙️ Tecnologias e Ferramentas
 
   ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=fff)
-  ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+  ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
   ![Scrum](https://img.shields.io/badge/-Scrum-009FDA?logo=scrumalliance&logoColor=fff)
   ![Kanban](https://img.shields.io/badge/-Kanban-0052CC?logo=trello&logoColor=fff)
   ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
