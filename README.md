@@ -8,23 +8,22 @@ Tenho mais de 10 anos de **experiência** em atendimento ao cliente e suporte t�
 
   ## ✨ Sobre mim
 
-🔍 QA com atuação em testes **funcionais**, **exploratórios** e **automatizados**
+🔍 QA com atuação em testes **funcionais**, **exploratórios** e **automatizados de API**  
 
-🛠 Experiência em Cypress + JavaScript para **automação de testes**
+📋 Forte atuação em **validação de requisitos**, **reporte** e **acompanhamento de bugs**  
 
-📋 Forte atuação em **validação de requisitos**, **reporte** e **acompanhamento de bugs**
+🚀 **Experiência** com práticas ágeis **(Scrum/Kanban)** com as ferramentas Jira e GitLab, e colaboração em times multidisciplinares  
 
-🚀 **Experiência** com práticas ágeis **(Scrum/Kanban)** com a ferramenta Jira e colaboração em times multidisciplinares
+🧪 Conhecimento sólido em **testes manuais**, **exploratórios** e **bug bashes**  
 
-🧪 Conhecimento sólido em **testes manuais**, **exploratórios** e **bug bashes**
+🧩 Estruturação de processos de testes (exploratórios, regressivos e E2E) com foco em **cobertura** e **rastreabilidade**  
 
-🧩 Estruturação de processos de testes (exploratórios, regressivos e E2E) com foco em **cobertura** e **rastreabilidade**
-
-🎯 **Foco** em entregar produtos digitais mais **confiáveis**, **eficientes** e com **melhor experiência** para o **usuário**
+🎯 **Foco** em entregar produtos digitais mais **confiáveis**, **eficientes** e com **melhor experiência** para o **usuário**  
 
   ## ⚙️ Tecnologias e Ferramentas
 
   ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=fff)
+  ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
   ![Scrum](https://img.shields.io/badge/-Scrum-009FDA?logo=scrumalliance&logoColor=fff)
   ![Kanban](https://img.shields.io/badge/-Kanban-0052CC?logo=trello&logoColor=fff)
   ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
