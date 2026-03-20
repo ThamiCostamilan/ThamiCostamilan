@@ -5,7 +5,7 @@ Tenho mais de 10 anos de **experiência** em atendimento ao cliente e suporte t�
 
 (𝑖∂ − 𝑚) 𝜓 = 0
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
   ## ✨ Sobre mim
 
@@ -49,7 +49,7 @@ Tenho mais de 10 anos de **experiência** em atendimento ao cliente e suporte t�
 
  ▫️ https://github.com/ThamiCostamilan/O-Curriculo-Perfeito  
   
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
   ## 💌 Quer bater um papo? É só me chamar!
   <a href="https://www.linkedin.com/in/thamiris-costamilan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
