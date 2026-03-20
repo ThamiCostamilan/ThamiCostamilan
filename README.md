@@ -11,7 +11,7 @@ Tenho mais de 10 anos de **experiência** em atendimento ao cliente e suporte t�
 
 🔍 QA com atuação em testes **funcionais**, **exploratórios** e **automatizados de API**  
 
-📋 Forte atuação em **validação de requisitos**, **reporte** e **acompanhamento de bugs**  
+📋 Forte atuação em **Bug Tracking**  
 
 🚀 **Experiência** com práticas ágeis **(Scrum/Kanban)** com as ferramentas Jira e GitLab, e colaboração em times multidisciplinares  
 
