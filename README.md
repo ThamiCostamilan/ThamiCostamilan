@@ -21,7 +21,7 @@ Tenho mais de 10 anos de **experiência** em atendimento ao cliente e suporte t�
 
 🎯 **Foco** em entregar produtos digitais mais **confiáveis**, **eficientes** e com **melhor experiência** para o **usuário**  
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
   ## ⚙️ Tecnologias e Ferramentas
 
