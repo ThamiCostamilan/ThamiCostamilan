@@ -5,6 +5,7 @@ Tenho mais de 10 anos de **experiência** em atendimento ao cliente e suporte t�
 
 (𝑖∂ − 𝑚) 𝜓 = 0
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
   ## ✨ Sobre mim
 
@@ -20,6 +21,8 @@ Tenho mais de 10 anos de **experiência** em atendimento ao cliente e suporte t�
 
 🎯 **Foco** em entregar produtos digitais mais **confiáveis**, **eficientes** e com **melhor experiência** para o **usuário**  
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
   ## ⚙️ Tecnologias e Ferramentas
 
   ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=fff)
@@ -34,7 +37,19 @@ Tenho mais de 10 anos de **experiência** em atendimento ao cliente e suporte t�
   ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff)
   ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=fff)
-  ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+  ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)  
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ ## 🗂️ Na prática: Qualidade, Artigos e Projetos 🔻  
+
+ O meu diferencial nas documentações escritas aqui é que **NÃO** uso ajuda de IA para fazer os conteúdos. É tudo escrito do coração, fritando a cabeça e com vivências reais.  
+
+ ▫️ https://github.com/ThamiCostamilan/Iniciando-na-Carreira-QA  
+
+ ▫️ https://github.com/ThamiCostamilan/O-Curriculo-Perfeito  
+  
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
   ## 💌 Quer bater um papo? É só me chamar!
   <a href="https://www.linkedin.com/in/thamiris-costamilan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
