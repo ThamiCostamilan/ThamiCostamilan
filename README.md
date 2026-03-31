@@ -1,6 +1,6 @@
   ## Muito prazer, sou a Thamis! 💗
 
-Analista de Qualidade de Software com foco em testes **funcionais**, **exploratórios** e **automatizados de API**.
+Analista de Qualidade de Software com foco em testes **funcionais**, **exploratórios** e de **API**.
 Tenho mais de 10 anos de **experiência** em atendimento ao cliente e suporte técnico em TI, o que fortalece minha visão voltada para **detalhes**, **usabilidade** e **experiência do usuário**.
 
 (𝑖∂ − 𝑚) 𝜓 = 0
@@ -9,7 +9,7 @@ Tenho mais de 10 anos de **experiência** em atendimento ao cliente e suporte t�
 
   ## ✨ Sobre mim
 
-🔍 QA com atuação em testes **funcionais**, **exploratórios** e **automatizados de API**  
+🔍 QA com atuação em testes **funcionais**, **exploratórios** e de **API**  
 
 📋 Forte atuação em **Bug Tracking**  
 
