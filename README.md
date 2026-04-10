@@ -48,8 +48,10 @@ Tenho mais de 10 anos de **experiência** em atendimento ao cliente e suporte t�
  ▫️ https://github.com/ThamiCostamilan/Iniciando-na-Carreira-QA  
 
  ▫️ https://github.com/ThamiCostamilan/O-Curriculo-Perfeito  
-  
 
+ ▫️ https://github.com/ThamiCostamilan/Comunicacao-e-a-Base  
+
+  
 
   ## 💌 Quer bater um papo? É só me chamar!
   <a href="https://www.linkedin.com/in/thamiris-costamilan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
